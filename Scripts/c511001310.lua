@@ -64,3 +64,4 @@ end
 function c511001310.efilter(e,c)
 	return c:IsRace(RACE_INSECT) and c:GetOriginalRace()~=c:GetRace() and c:GetOriginalRace()~=RACE_INSECT
 end
+~~~~
