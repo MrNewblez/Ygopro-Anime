@@ -475,3 +475,4 @@ end
 function c51100236.negop(e,tp,eg,ep,ev,re,r,rp)
 	Duel.NegateAttack()
 end
+~~~~
