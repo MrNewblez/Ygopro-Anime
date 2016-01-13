@@ -42,3 +42,4 @@ function c511000214.disoperation(e,tp,eg,ep,ev,re,r,rp)
 		Duel.NegateEffect(ev)
 	end
 end
+~~~~
