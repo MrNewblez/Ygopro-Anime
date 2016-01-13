@@ -7,3 +7,4 @@ function c511000769.initial_effect(c)
 	e1:SetValue(2)
 	c:RegisterEffect(e1)
 end
+~~~~
