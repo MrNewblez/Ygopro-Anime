@@ -219,3 +219,4 @@ end
 function c511000235.damop(e,tp,eg,ep,ev,re,r,rp)
 	Duel.ChangeBattleDamage(ep,Duel.GetLP(ep)*100)
 end
+~~~~
