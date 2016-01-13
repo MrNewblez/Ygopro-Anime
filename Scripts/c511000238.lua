@@ -236,3 +236,4 @@ function c511000238.atkop(e,tp,eg,ep,ev,re,r,rp)
 	end
 	Duel.Destroy(dg,REASON_EFFECT)
 end
+~~~~
